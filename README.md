@@ -7,5 +7,5 @@
   <img height=180 align="center" src="https://github-readme-stats-five-theta-40.vercel.app/api/top-langs/?username=piyushgupta246&layout=compact&langs_count=8&theme=ambient_gradient" />
 </a>
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/pgupta246?theme=dark&font=Karma&ext=contest" width="1000" />
+  <img height=180 src="https://leetcard.jacoblin.cool/pgupta246?theme=dark&font=Karma&ext=contest" width="500" />
 </p>
