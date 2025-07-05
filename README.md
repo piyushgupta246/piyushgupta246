@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  <img height="200" src="https://leetcard.jacoblin.cool/pgupta246?theme=dark&font=Karma&ext=contest" />
+  <img height="200" width="400" src="https://leetcard.jacoblin.cool/pgupta246?theme=dark&font=Karma&ext=contest" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyushgupta246&show_icons=true&theme=radical&hide_border=true" width="47%" />
