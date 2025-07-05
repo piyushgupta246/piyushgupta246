@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img height="200" width="400" src="https://leetcard.jacoblin.cool/pgupta246?theme=dark&font=Karma&ext=contest" />
+  <img height="200" width="600" src="https://leetcard.jacoblin.cool/pgupta246?theme=dark&font=Karma&ext=contest" />
 </p>
 
 
