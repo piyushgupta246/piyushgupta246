@@ -1,6 +1,7 @@
-## 📊 GitHub & LeetCode Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=piyushgupta246&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://leetcard.jacoblin.cool/pgupta246?theme=dark&font=Karma&ext=contest" />
+  <img height="170" src="https://leetcard.jacoblin.cool/pgupta246?theme=dark&font=Karma&ext=contest" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushgupta246&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=piyushgupta246&theme=radical&hide_border=true" />
 </p>
